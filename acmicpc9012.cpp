@@ -2,9 +2,6 @@
 #include <vector>
 using namespace std;
 
-#define OPEN 1
-#define CLOSE 2
-
 int main() {
     int n;
     vector<char> stack;
